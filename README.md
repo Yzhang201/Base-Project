@@ -7,4 +7,5 @@ This repository contains the following:
  3. Final project report (doc)
  4. Final project report (pdf)
  5. PPT Final presentation
-    Copy of the original dataset ([https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset/data])
+
+ Copy of the original dataset ([https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset/data])
